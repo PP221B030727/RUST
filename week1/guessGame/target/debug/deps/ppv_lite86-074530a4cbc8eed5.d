@@ -1,0 +1,10 @@
+/Users/nursultanturugeldiev/Desktop/RUST/week1/guessGame/target/debug/deps/ppv_lite86-074530a4cbc8eed5.rmeta: /Users/nursultanturugeldiev/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/lib.rs /Users/nursultanturugeldiev/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/soft.rs /Users/nursultanturugeldiev/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/types.rs /Users/nursultanturugeldiev/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/generic.rs
+
+/Users/nursultanturugeldiev/Desktop/RUST/week1/guessGame/target/debug/deps/libppv_lite86-074530a4cbc8eed5.rlib: /Users/nursultanturugeldiev/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/lib.rs /Users/nursultanturugeldiev/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/soft.rs /Users/nursultanturugeldiev/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/types.rs /Users/nursultanturugeldiev/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/generic.rs
+
+/Users/nursultanturugeldiev/Desktop/RUST/week1/guessGame/target/debug/deps/ppv_lite86-074530a4cbc8eed5.d: /Users/nursultanturugeldiev/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/lib.rs /Users/nursultanturugeldiev/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/soft.rs /Users/nursultanturugeldiev/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/types.rs /Users/nursultanturugeldiev/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/generic.rs
+
+/Users/nursultanturugeldiev/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/lib.rs:
+/Users/nursultanturugeldiev/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/soft.rs:
+/Users/nursultanturugeldiev/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/types.rs:
+/Users/nursultanturugeldiev/.cargo/registry/src/github.com-1ecc6299db9ec823/ppv-lite86-0.2.17/src/generic.rs:
